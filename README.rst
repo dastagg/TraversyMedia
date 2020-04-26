@@ -1,0 +1,1 @@
+This is the code I typed in watching the Traversy Media YouTube channel.
